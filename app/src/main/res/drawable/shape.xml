@@ -5,7 +5,7 @@
         <!-- shape 定义形状为rectangle -->
 
         <!-- corners 设置四个圆角 -->
-        <corners android:radius="20dp" />
+        <corners android:radius="8dp" />
         <!--
                 分别设置四个角
             android:bottomLeftRadius=""

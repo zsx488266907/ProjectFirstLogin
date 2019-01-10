@@ -8,6 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Map" />
+            <option value="$PROJECT_DIR$/Version" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/lib_core" />
           </set>
